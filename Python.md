@@ -1,7 +1,7 @@
-Python Overview
+# Python Overview
 Python is a high-level, interpreted, object-oriented programming language with dynamic semantics. It is widely used for web development, data analysis, artificial intelligence, scientific computing, and more. Python's design philosophy emphasizes code readability with the use of significant indentation.
 
-Key Features
+# Key Features
 Easy to learn: Python has a relatively simple syntax, making it easy for beginners to pick up.
 Readable code: Its emphasis on readability makes code easier to understand and maintain.
 Large standard library: Python comes with a vast collection of modules and packages that provide pre-written code for various tasks.
@@ -17,7 +17,7 @@ Control Flow: Structures like if/elif/else statements and loops (for, while) to 
 Functions: Blocks of reusable code that perform a specific task.
 Modules and Packages: Ways to organize and reuse code. Modules are single files, while packages are directories containing multiple modules.
 Object-Oriented Programming (OOP): Python supports OOP principles, allowing you to create objects and classes.
-Getting Started
+# Getting Started
 Installation: Download and install Python from the official website.
 ```bash
 https://www.python.org/downloads/
