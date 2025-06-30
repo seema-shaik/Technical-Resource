@@ -23,6 +23,7 @@ To start using NumPy in your Python projects, you can install it via pip:
 
 ```bash
 pip install numpy
+```
 
 ### Colab Notebook
 
