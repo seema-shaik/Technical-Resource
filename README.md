@@ -20,5 +20,9 @@ Robust IO tools for loading data from flat files (CSV and delimited), Excel file
 Time series-specific functionality: date range generation and frequency conversion, moving window statistics, date shifting and lagging
 # Getting started with pandas
 To begin using Pandas in your Python projects, you can install it via pip:
+```bash
 pip install pandas
+```
+
+
 You can then import Pandas into your Python scripts or Jupyter notebooks and start exploring its functionalities for data manipulation and analysis. Dive into the world of Pandas and unlock the potential of your data!
