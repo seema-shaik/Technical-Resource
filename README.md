@@ -18,3 +18,7 @@ Flexible reshaping and pivoting of data sets
 Hierarchical labeling of axes (possible to have multiple labels per tick)
 Robust IO tools for loading data from flat files (CSV and delimited), Excel files, databases, and saving/loading data from the ultrafast HDF5 format
 Time series-specific functionality: date range generation and frequency conversion, moving window statistics, date shifting and lagging
+# Getting started with pandas
+To begin using Pandas in your Python projects, you can install it via pip:
+pip install pandas
+You can then import Pandas into your Python scripts or Jupyter notebooks and start exploring its functionalities for data manipulation and analysis. Dive into the world of Pandas and unlock the potential of your data!
