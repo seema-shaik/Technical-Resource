@@ -3,12 +3,19 @@ Python is a high-level, interpreted, object-oriented programming language with d
 
 # Key Features
 Easy to learn: Python has a relatively simple syntax, making it easy for beginners to pick up.
+
 Readable code: Its emphasis on readability makes code easier to understand and maintain.
+
 Large standard library: Python comes with a vast collection of modules and packages that provide pre-written code for various tasks.
+
 Extensive community support: Python has a large and active community, which contributes to its growth and provides support to users.
+
 Platform independent: Python code can run on various operating systems without modification.
+
 Dynamically typed: You don't need to declare the data type of variables explicitly.
+
 Interpreted language: Python code is executed line by line, which makes debugging easier.
+
 # Basic Concepts
 Variables: Used to store data values.
 
