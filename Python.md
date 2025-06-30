@@ -9,7 +9,7 @@ Extensive community support: Python has a large and active community, which cont
 Platform independent: Python code can run on various operating systems without modification.
 Dynamically typed: You don't need to declare the data type of variables explicitly.
 Interpreted language: Python code is executed line by line, which makes debugging easier.
-Basic Concepts
+# Basic Concepts
 Variables: Used to store data values.
 Data Types: Python supports various data types, including integers, floats, strings, lists, tuples, dictionaries, and sets.
 Operators: Symbols that perform operations on variables and values (e.g., arithmetic, comparison, logical operators).
