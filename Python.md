@@ -11,11 +11,17 @@ Dynamically typed: You don't need to declare the data type of variables explicit
 Interpreted language: Python code is executed line by line, which makes debugging easier.
 # Basic Concepts
 Variables: Used to store data values.
+
 Data Types: Python supports various data types, including integers, floats, strings, lists, tuples, dictionaries, and sets.
+
 Operators: Symbols that perform operations on variables and values (e.g., arithmetic, comparison, logical operators).
+
 Control Flow: Structures like if/elif/else statements and loops (for, while) to control the execution flow of the program.
+
 Functions: Blocks of reusable code that perform a specific task.
+
 Modules and Packages: Ways to organize and reuse code. Modules are single files, while packages are directories containing multiple modules.
+
 Object-Oriented Programming (OOP): Python supports OOP principles, allowing you to create objects and classes.
 # Getting Started
 Installation: Download and install Python from the official website.
