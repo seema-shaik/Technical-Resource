@@ -23,3 +23,9 @@ To start using NumPy in your Python projects, you can install it via pip:
 
 ```bash
 pip install numpy
+
+### Colab Notebook
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rLefEu0oC17QU8v0hVHj6BBFQY0QlYvT?usp=sharing)
+
+Click the badge above to access the Colab notebook for hands-on exercises with NumPy.
