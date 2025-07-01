@@ -36,3 +36,6 @@ https://www.python.org/downloads/
 Writing Code: Use a text editor or an Integrated Development Environment (IDE) to write Python code.
 Running Code: Execute Python code using the Python interpreter.
 
+### Colab Notebook[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V795iMudRIqErdny2NMQjniezuEuUUYA?usp=sharing)
+
+Click the badge above to access the Jupyter notebook for hands-on exercises with Python.
