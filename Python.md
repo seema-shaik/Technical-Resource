@@ -27,8 +27,6 @@ Control Flow: Structures like if/elif/else statements and loops (for, while) to 
 
 Functions: Blocks of reusable code that perform a specific task.
 
-Modules and Packages: Ways to organize and reuse code. Modules are single files, while packages are directories containing multiple modules.
-
 Object-Oriented Programming (OOP): Python supports OOP principles, allowing you to create objects and classes.
 # Getting Started
 Installation: Download and install Python from the official website.
